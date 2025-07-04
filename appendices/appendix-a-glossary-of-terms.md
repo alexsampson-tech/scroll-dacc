@@ -38,6 +38,4 @@
 
 **Working Group**: Cross-functional teams with delegated authority to execute on specific initiatives.
 
-zkEVM: Zero-knowledge Ethereum Virtual Machine enabling private and scalable smart contract execution.
-
-\
+**zkEVM**: Zero-knowledge Ethereum Virtual Machine enabling private and scalable smart contract execution.
