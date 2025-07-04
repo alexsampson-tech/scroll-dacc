@@ -46,5 +46,4 @@
   * [Appendix E: DeFi Wars Analytics Platform](appendices/appendix-e-defi-wars-analytics-platform.md)
   * [Appendix F: Governance Proposal Template Components](appendices/appendix-f-governance-proposal-template-components.md)
   * [References and Further Reading](appendices/references-and-further-reading.md)
-* [Kahoot Quiz](kahoot-quiz.md)
 * [Take-Home Assignment](take-home-assignment.md)

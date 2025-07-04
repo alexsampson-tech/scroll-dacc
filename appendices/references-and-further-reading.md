@@ -9,22 +9,17 @@
 #### Industry Reports
 
 * "The State of DAO Governance 2024" - Messari
-*
   * [Governor Note: The veBAL Wars](https://messari.io/report/governor-note-the-vebal-wars)
 * "DeFi Protocol Partnerships Analysis" - Delphi Digital
 * "Layer 2 Ecosystem Report" - L2Beat
-* [Tapping into the ecology of DAOs](https://thedaoist.mirror.xyz/8jKbVJCJgUFk5BT6RqE4UjGcWY3Qjr1ZnzVZVnvurIc)
-* [Early Survey of Metagovernance](https://www.indexcoop.com/blog/early-2022-survey-of-metagovernance)
-* [DAO Token Swaps as Ecosystem Enablers](https://www.superchain.eco/insights/dao-token-swaps-as-ecosystem-enablers)
-
-\
-
+  * [Tapping into the ecology of DAOs](https://thedaoist.mirror.xyz/8jKbVJCJgUFk5BT6RqE4UjGcWY3Qjr1ZnzVZVnvurIc)
+  * [Early Survey of Metagovernance](https://www.indexcoop.com/blog/early-2022-survey-of-metagovernance)
+  * [DAO Token Swaps as Ecosystem Enablers](https://www.superchain.eco/insights/dao-token-swaps-as-ecosystem-enablers)
 
 #### Protocol Documentation
 
 * Curve Finance Governance Documentation
 * Aave Governance Forum Archives
-*
   * [Aave <> Uniswap](https://gov.uniswap.org/t/rfc-aave-s-cdp-for-uniswap-v4-positions/25568)
   * [Aave <> Gnosis Credit Line](https://governance.aave.com/t/arfc-deploy-a-gnosis-dao-credit-line-aave-v3-instance/19272)
   * [Aave <> Balancer Token Swap](https://governance.aave.com/t/arc-strategic-partnership-with-balancer-part-1/7617)
