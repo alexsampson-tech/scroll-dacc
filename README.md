@@ -113,16 +113,11 @@
 
 **4.1.1 Scroll Overview**
 
-* #### zkEVM Technology and Competitive Advantages
-* #### Ecosystem Growth and Major Integrations
+**4.1.2 zkEVM Technology and Competitive Advantages**
 
-**4.1.2 Historical Examples of L2 Strategic Governance Initiatives**
+**4.2 Historical Examples of L2 Strategic Governance Initiatives**
 
-* #### Learning from Other L2 Partnerships
-
-**4.1.3 Scroll's Value Propositions**
-
-* #### Technical Advantages and Strategic Positioning
+**4.3 Leveraging Scroll to Co-Create Value**
 
 ### Chapter 5: Key Lessons from Strategic Governance Case Studies
 
